@@ -4,8 +4,7 @@ permalink: /blog/
 title: "Blog Posts by Tags"
 author_profile: true
 header:
-  teaser: /images/background0.JPG
-  overlay_image: /images/background0.JPG
+  overlay_image: /images/0.jpg
   overlay_filter: 0.5
 ---
 

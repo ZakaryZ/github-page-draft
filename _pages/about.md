@@ -2,8 +2,7 @@
 title: "About me"
 permalink: /about/
 header:
-  teaser: /images/background0.JPG
-  overlay_image: /images/background0.JPG
+  overlay_image: /images/0.jpg
   overlay_filter: 0.5
 ---
 
