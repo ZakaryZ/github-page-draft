@@ -16,12 +16,12 @@ minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale: "en-US"
-title: "Yijuan's blog"
+title: "Yijuan's Blog"
 title_separator: "-"
 subtitle: "Where amazing happens" # site tagline that appears below site title in masthead
 name: "Yijuan Zhi"
-description: "Yijuan Zhi's blog"
-url: "YijuanZhi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description: "Yijuan Zhi's Blog"
+url: "https:YijuanZhi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: "YijuanZhi/YijuanZhi.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -94,7 +94,7 @@ analytics:
 author:
   name: "Yijuan Zhi"
   avatar: "/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "I don't save time for future. I do it right now. (This website is still under development, stay tuned! 7.30.2020."
+  bio: "I don't save time for future. I do it right now. (This website is still under development, stay tuned! 7.31.2020.)"
   location: "Amherst, MA"
   email: yzhi0119@gmail.com
   links:
@@ -103,7 +103,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://yijuanzhi.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -112,7 +112,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/YijuanZhi"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -128,7 +128,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/YijuanZhi"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
