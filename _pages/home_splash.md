@@ -5,12 +5,14 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /images/0.jpg
+  overlay_filter: 0.5
   actions:
-    - label: "<i class='fas fa-download'></i> About Me"
+    - label: "About Me"
       url: /about/
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.19.3">Latest release v4.19.3</a></small>
+  Welcome to Yijuan Zhi's blog! <br>
+  I recently graduated from University of Massachusetts, Amherst with a bachelor degree in Computer Science and a minor degree in Mathematics. This blog is where I share the notes I am taking or took. The topics covers:
+  LeetCode, technical stuff learning, and commands of emacs, git, npm, etc.
 feature_row:
   - image_path: /images/technical_main.png
     alt: "Technical Notes"
