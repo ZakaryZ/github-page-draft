@@ -3,16 +3,19 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#000"
   overlay_image: /images/0.jpg
   overlay_filter: 0.7
-  caption: "Photo: [**Sea at Tamsui, Taiwan. Yijuan Zhi**]()"
+  caption: "Photo: [**Tamsui, Taiwan by Yijuan Zhi**]()"
   actions:
     - label: "Learn More About Me"
       url: /about/
 excerpt: >
-  Welcome to Yijuan Zhi's blog! This blog is where I share the notes I am taking or took.<br>
+  Welcome to Yijuan Zhi's blog!<br>
   <small> I recently graduated from University of Massachusetts, Amherst with a bachelor degree in Computer Science and a minor degree in Mathematics. </small>
+intro: 
+  - excerpt: 'This blog is where I share the notes I am taking or took. Including technical stuff learning, leetcode notes and commands learning.'
+feature_row:
 feature_row:
   - image_path: /images/technical_main2.png
     alt: "Technical Notes"
