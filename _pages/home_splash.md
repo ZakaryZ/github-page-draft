@@ -5,7 +5,7 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /images/0.jpg
-  overlay_filter: 0.5
+  overlay_filter: 0.7
   caption: "Photo: [**Sea at Tamsui, Taiwan. Yijuan Zhi**]()"
   actions:
     - label: "Learn More About Me"
@@ -14,7 +14,7 @@ excerpt: >
   Welcome to Yijuan Zhi's blog! This blog is where I share the notes I am taking or took.<br>
   <small> I recently graduated from University of Massachusetts, Amherst with a bachelor degree in Computer Science and a minor degree in Mathematics. </small>
 feature_row:
-  - image_path: /images/technical_main.png
+  - image_path: /images/technical_main2.png
     alt: "Technical Notes"
     title: "Technical Notes"
     excerpt: "Technical learning diary, including web programming, computer science network, OS, etc"
