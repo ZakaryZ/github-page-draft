@@ -6,4 +6,4 @@ header:
   overlay_filter: 0.5
 ---
 
-I am a fresh grad software development engineer. Welcome to my blog site!
+I am a fresh grad software development engineer. Welcome to my blog!
