@@ -10,12 +10,11 @@ header:
   actions:
     - label: "Learn More About Me"
       url: /about/
-excerpt: >
+excerpt:
   Welcome to Yijuan Zhi's blog!<br>
   <small> I recently graduated from University of Massachusetts, Amherst with a bachelor degree in Computer Science and a minor degree in Mathematics. </small>
 intro: 
   - excerpt: 'This blog is where I share the notes I am taking or took. Including technical stuff learning, leetcode notes and commands learning.'
-feature_row:
 feature_row:
   - image_path: /images/technical_main2.png
     alt: "Technical Notes"
@@ -39,5 +38,5 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
-
+{% include feature_row id="intro" type="center" %}
 {% include feature_row %}
