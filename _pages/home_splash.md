@@ -21,21 +21,21 @@ feature_row:
     title: "Technical Notes"
     excerpt: "Technical learning diary, including web programming, network, OS, etc"
     url: /blog/
-    btn_class: "btn--default"
+    btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /images/leetcode_main.png
     alt: "LeetCode Notes"
     title: "LeetCode Notes"
     excerpt: "Collecting classic and typical leetcode question notes"
     url: /blog/
-    btn_class: "btn--default"
+    btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /images/command_main.jpg
     alt: "Commands Notes"
     title: "Commands Notes"
     excerpt: "Terminal's best friends, commands for emacs, git, npm, mongodb, etc"
     url: /blog/
-    btn_class: "btn--default"
+    btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
 {% include feature_row id="intro" type="center" %}
