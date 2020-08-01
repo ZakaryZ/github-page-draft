@@ -1,22 +1,11 @@
 ---
 title: "My First Blog Post: Hello My Blog!"
 date: 2020-08-01
-tages: [rant]
+tags:
+    - rant
 header: 
     image: "/images/2020-08-01-firstblog/hello-image.jpg"
 excerpt: "Hello, my blog!"
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
 ---
 
 ##Hello, my blog!
