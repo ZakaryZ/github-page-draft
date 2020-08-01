@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "TECH"
-    url: /blog/
-  - title: "LC"
-    url: /blog/
-  - title: "CMD"
-    url: /blog/
-  - title: "All"
+  # - title: "TECH"
+  #   url: /blog/
+  # - title: "LC"
+  #   url: /blog/
+  # - title: "CMD"
+  #   url: /blog/
+  - title: "Blog"
     url: /blog/
   - title: "About Me"
     url: /about/
