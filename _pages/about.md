@@ -17,8 +17,10 @@ I am from a busy city in the South of China. When people hear where I am from, t
 
 I used to be an architecture student in Tamkung University which is located in Tamsui, Taiwan, where I found computer science is actually what I love. 
 
-Jobs and work aside, I love playing games on Nintendo Switch. I used to play really hard in League of Legend, and get pretty high in rank. But if you want to play with me now, don't expect to win. I just love trolling, that is the only fun part of this game, right? I smoke a little bit, which I like to call it as "functional smoke". I play sports, and used to be a member in local swimming competition team. 
+Jobs and work aside, I love playing games on Nintendo Switch. I used to play really hard in League of Legend, and get pretty high in rank. But if you want to play with me now, don't expect to win. I just love trolling, that is the only fun part of this game, right? 
 
-Welp, that is just a piece of myself. If you want to learn some material I have learned, feel free to go through my blog. If you want to play game with me, send me an email. 
+I smoke a little bit, which I like to call it as "functional smoke". I play sports, and used to be a member in local swimming competition team. 
+
+Welp, that is just a piece of myself. If you want to learn some material I have learned, feel free to go through my blog. If you want to play game with me or anything else, send me an email. 
 
 It's been nice to have you here, and good luck to you all.
