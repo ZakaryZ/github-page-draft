@@ -11,7 +11,7 @@ Oh god, you just found another boring and naive computer science fresh graduate.
 
 Welp, yeah. Since you are here, why not learn a little bit of me?
 
-I am Yijuan Zhi, or you can call me Xavier. My Chinese friends like to call me Xman, and I think the reason behind it is because they usually cannot pronunce 'Xa' correctly. lol
+I am Yijuan Zhi, or you can call me Xavier. My Chinese friends like to call me Xman, and I think the reason behind it is because they usually cannot pronunce 'Xa' correctly. So sometimes, I tell people my name is Zac. I am somewhat fine with two names loool.
 
 I am from a busy city in the South of China. When people hear where I am from, they are always like "Dang, you must be rich!". Welp, unluckily, I am not another spoiled Chinese kid you have see. I work hard(and play hard), and desperately want to live like a dream(I wiil come for you Dodge Challenger).
 
