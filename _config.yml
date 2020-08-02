@@ -18,7 +18,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale: "en-US"
 title: "Yijuan's Blog"
 title_separator: "-"
-subtitle: "Where amazing happens" # site tagline that appears below site title in masthead
+subtitle: "A boring software engineer" # site tagline that appears below site title in masthead
 name: "Yijuan Zhi"
 description: "Yijuan Zhi's Blog"
 url: "https:YijuanZhi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
