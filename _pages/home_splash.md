@@ -5,7 +5,7 @@ hidden: true
 header:
   overlay_color: "#000"
   overlay_image: /images/2020-08-01-firstblog/hello-image.jpg
-  overlay_filter: 0.3
+  overlay_filter: 0.2
   caption: "Photo: [**At Kaohsiung City, Taiwan by an_vision*]()"
   actions:
     - label: "Learn More About Me"

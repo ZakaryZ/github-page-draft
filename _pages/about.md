@@ -4,7 +4,7 @@ permalink: /about/
 header:
   overlay_image: /images/2020-08-01-firstblog/hello-image.jpg
   overlay_filter: 0.3
-  excerpt: Acidently, you just found me
+excerpt: Acidently, you just found me
 ---
 
 Oh god, you just found another boring and naive computer science fresh graduate.

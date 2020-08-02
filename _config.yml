@@ -18,7 +18,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale: "en-US"
 title: "Yijuan's Blog"
 title_separator: "-"
-subtitle: "A boring software engineer" # site tagline that appears below site title in masthead
+subtitle: "A boring SDE's rant" # site tagline that appears below site title in masthead
 name: "Yijuan Zhi"
 description: "Yijuan Zhi's Blog"
 url: "https:YijuanZhi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -94,7 +94,7 @@ analytics:
 author:
   name: "Yijuan Zhi"
   avatar: "/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "I don't save time for future. I do it right now. (This website is still under development, stay tuned! 8.1.2020.)"
+  bio: "I don't save time for future. I do it right now."
   location: "Amherst, MA"
   email: yzhi0119@gmail.com
   links:
