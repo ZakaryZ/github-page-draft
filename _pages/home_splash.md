@@ -3,10 +3,11 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#000"
-  overlay_image: /images/0.jpg
-  overlay_filter: 0.7
-  caption: "Photo: [**Tamsui, Taiwan by Yijuan Zhi**]()"
+  image: "/images/2020-08-01-firstblog/hello-image.jpg"
+  # overlay_color: "#000"
+  # overlay_image: /images/0.jpg
+  # overlay_filter: 0.7
+  # caption: "Photo: [**Tamsui, Taiwan by Yijuan Zhi**]()"
   actions:
     - label: "Learn More About Me"
       url: /about/
@@ -14,7 +15,7 @@ excerpt:
   Welcome to Yijuan Zhi's blog! <br>
   <small> In May 2020, I graduated from University of Massachusetts, Amherst with a bachelor degree in Computer Science and a minor degree in Mathematics. I will be joining Antra as a SDE in Sep 2020. </small>
 intro: 
-  - excerpt: 'This blog is where I share the notes I am taking or took. Including technical stuff learning, leetcode notes and commands learning. `progress = learning` '
+  - excerpt: This blog is where I share the notes I am taking or took. Including technical stuff learning, leetcode notes and commands learning. <br> `progress = learning`
 feature_row:
   - image_path: /images/technical_main2.png
     alt: "Technical Notes"
